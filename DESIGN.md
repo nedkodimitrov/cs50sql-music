@@ -44,7 +44,7 @@ The `artists` table includes:
 
 The column `first_name` in the `artists` table is required and hence should have the `NOT NULL` constraint applied. The `birth_date` column has a constraint to check that it's not in the future.
 
-#### albums
+#### Albums
 
 The `albums` table includes:
 
@@ -55,7 +55,7 @@ The `albums` table includes:
 
 The column `title` in the `albums` table is required and hence should have the `NOT NULL` constraint applied. The `release_date` column has a constraint to check that it's not in the future.
 
-#### songs
+#### Songs
 
 The `songs` table includes:
 
